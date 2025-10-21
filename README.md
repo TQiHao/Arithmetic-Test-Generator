@@ -19,17 +19,20 @@ This interactive program creates customized arithmetic tests featuring:
 - User-friendly interface
 
 ## Files
-- `Toh Qi Hao_Lab_3.py` - Coordinate quadrant identification program
+- `Toh Qi Hao_Lab_4.py` - Arithmetic test generator
 
 ## Technologies Used
-- Python 3
-- Conditional logic
-- User input handling
-- String formatting
-- Mathematical coordinate analysis
+- Python 3 - Core programming language
+- Random module - For generating numbers and operators
+- Modular functions - Organized code structure
+- Conditional logic - Answer validation and feedback
+- User I/O - Input handling and output formatting
+- Mathematical operations - Arithmetic calculations
+- Loop structures - Question iteration
+- Percentage calculation - Score analysis
 
 ## Author
-Toh Qi Hao
+Toh Qi Hao - Python Programming Lab 4
 
 ## How to Run
 ```bash
