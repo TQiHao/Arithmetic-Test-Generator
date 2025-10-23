@@ -32,7 +32,7 @@ This interactive program creates customized arithmetic tests featuring:
 - Percentage calculation - Score analysis
 
 ## Author
-Toh Qi Hao - Python Programming Lab 4
+Toh Qi Hao 
 
 ## How to Run
 ```bash
